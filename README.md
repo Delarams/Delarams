@@ -1,5 +1,7 @@
 # Hey, I'm Delaram! 👋
 ## I study Computer Science at the University of Calgary
+
+**A person who never made a mistake never tried anything new.  -Albert Einstein**
 <!--
 **Delarams/Delarams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
