@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hey, I'm Delaram! 👋
+## I study Computer Science at the University of Calgary
 <!--
 **Delarams/Delarams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
